@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am an undergraduate at UC Berkeley studying computer science and business administration majors. I am interested in computer system administration, internetworking design and implementation, software engineering, and fintech. Outside of academics, I am a swimmer, water polo player, and an avid snowboarder.
 
-## 🧠 Things I am following recently:
+### 🧠 Things I am following recently:
 
 - Neuralink
 - NFT  
