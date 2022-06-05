@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-I am an undergraduate at UC Berkeley studying computer science and business administration. 
-Interested in computer system administration, internetworking design and implementation, software engineering, and fintech
-Swimmer, water polo player, and an avid snowboarder.
+*Undergraduate at UC Berkeley studying computer science and business administration. 
+
+*Interested in computer system administration, internetworking design and implementation, software engineering, and fintech
+
+*Swimmer, water polo player, and snowboarder.
