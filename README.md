@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 - Undergraduate at UC Berkeley studying computer science and business administration. 
 
-- Interested in computer system administration, internetworking design and implementation, software engineering, and fintech
+- Interested in computer system administration, internetworking design and implementation, software engineering, and fintech.
 
 - Swimmer, water polo player, and snowboarder.
