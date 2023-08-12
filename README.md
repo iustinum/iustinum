@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 - Interested in computer architecture, software engineering, and natural language processing.
 
 - Swimmer, water polo player, and snowboarder.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iustinum&layout=compact)
