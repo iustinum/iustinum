@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 
 - Swimmer, water polo player, and snowboarder.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iustinum&layout=compact)
